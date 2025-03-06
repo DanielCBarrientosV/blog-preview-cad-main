@@ -13,6 +13,7 @@
 
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
+<<<<<<< HEAD
 .prettierignore
 
 # Created by https://www.toptal.com/developers/gitignore/api/linux,node
@@ -174,3 +175,6 @@ dist
 .svelte-kit
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,node
+=======
+.prettierignore
+>>>>>>> d75e60b (Commit Final)
